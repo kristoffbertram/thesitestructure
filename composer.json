@@ -1,0 +1,15 @@
+{
+  "name" : "kristoffbertram/thesitestructure",
+  "description": "",
+  "type": "package",
+  "license": "unlicense",
+  "authors": [
+    {
+      "name": "Kristoff Bertram",
+      "email": "me@kristoffbertram.be"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"kristoffbertram\\TheSiteStructure\\": "src/"}
+  }
+}
